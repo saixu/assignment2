@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#show{
+	margin-left: 10px;
+}
+#submit{
+	display: block;
+	margin-left: 10px;
+	width: 60px;
+	font: 10px;
+	height: 20px;
+	margin-bottom: 8px;
+}
+.head{
+	margin-left: 10px;
+}
+#firstname{
+	margin: 10px;
+	padding: 4px;
+	border: 1px solid red;
+	display: block;
+	height: 30px;
+	width: 200px;
+	font: 18px;
+	line-height: 30px;
+	text-align: left;
+}
+#lastname{
+	margin: 10px;
+	padding: 4px;
+	display: block;
+	border: 1px solid blue;
+	height: 30px;
+	width: 200px;
+	font: 18px;
+	line-height: 30px;
+	text-align: left;
+}
